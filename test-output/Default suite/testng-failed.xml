@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.hrblizz.testcase.TC_01_Manager_ApplyLeave">
+      <class name="com.hrblizz.testcase.TC_01_Api_Login_Case">
         <methods>
+          <include name="testUserCreate"/>
           <include name="setUp"/>
-          <include name="Login"/>
           <include name="tearDown"/>
+          <include name="setOffset"/>
         </methods>
-      </class> <!-- com.hrblizz.testcase.TC_01_Manager_ApplyLeave -->
+      </class> <!-- com.hrblizz.testcase.TC_01_Api_Login_Case -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

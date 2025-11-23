@@ -1,0 +1,41 @@
+22:55:15.902 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+22:58:35.823 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+23:01:01.915 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+23:06:22.318 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+23:08:46.333 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+23:09:04.554 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+08:06:39.715 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+08:06:42.363 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - ****** Starting TC_01 *****
+08:06:42.372 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - launched application
+08:06:42.897 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+08:06:44.538 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - ****** Starting TC_01 *****
+08:06:44.538 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - launched application
+08:06:48.568 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Logged in succesfully
+08:06:48.570 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Page loaded succesfully
+11:16:39.195 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+11:16:40.896 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - ****** Starting TC_01 *****
+11:16:40.896 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - launched application
+11:16:48.744 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Logged in succesfully
+11:16:48.744 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Page loaded succesfully
+17:22:49.525 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+17:22:51.393 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - ****** Starting TC_01 *****
+17:22:51.393 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - launched application
+17:23:00.945 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Logged in succesfully
+17:23:00.945 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Page loaded succesfully
+17:23:13.685 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully clicked on Leaves Link
+17:23:21.006 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Leave Balance before Applying leave has saved
+17:23:21.242 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully clicked on Request Leave
+17:23:21.357 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Clicked on leave type
+17:23:21.494 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Selected Annual Leave in Dropdown
+17:23:21.624 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully selected Leave start
+17:23:21.684 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully selected  end Date
+17:23:24.884 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully scrolled till end of page
+17:23:25.002 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully clicked on request Leave
+17:23:32.102 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully clicked on Confirm
+17:23:32.102 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Page Loaded completly
+17:23:32.138 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully Leave is applied by manager
+17:23:32.235 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - Succesfully clicked on Profile Link
+17:23:32.915 [main] INFO  com.hrblizz.testcase.TC_01_Manager_ApplyLeave - UserLogged Out succesfully
+17:23:35.266 [main] INFO  com.hrblizz.base.Base - ChromeDriver Instance is created.
+17:23:36.918 [main] INFO  com.hrblizz.testcase.TC_02_FailTestCase - ****** Starting TC_02 *****
+17:23:36.918 [main] INFO  com.hrblizz.testcase.TC_02_FailTestCase - launched application
