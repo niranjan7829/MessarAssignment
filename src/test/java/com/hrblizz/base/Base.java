@@ -142,7 +142,7 @@ public class Base {
 		prop.load(fis);
 		fis.close();
 
-		if (newValue > 8) {
+		if (newValue > 5) {
 			newValue = 1; // restart cycle
 		}
 
